@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+secrets.sh
+terraform-vars.sh
+upload-function-vars.sh
+python.mdc
+doc-assist-*.zip
+terraform/.terraform

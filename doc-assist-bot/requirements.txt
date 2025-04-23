@@ -1,0 +1,5 @@
+python-telegram-bot==21.7
+boto3==1.34.34
+chardet==5.2.0
+yandex_cloud_ml_sdk==0.9.1
+pathlib==1.0.1
